@@ -1,0 +1,10 @@
+# Raspberry Pi 5 çıkarım bağımlılıkları
+# Test edilen ortam: Raspberry Pi OS (Debian 13 trixie), Python 3.13, aarch64
+#
+# Sistem paketleri apt ile kurulur (pip ile DEĞİL):
+#   sudo apt install -y python3-picamera2 python3-opencv
+# Sanal ortam apt paketlerini görebilmesi için şöyle oluşturulmalı:
+#   python3 -m venv --system-site-packages .venv
+
+openvino>=2026.0
+numpy>=1.26

@@ -1,0 +1,4 @@
+category,train_min,version_dir,image_AUROC,image_F1Score,pixel_AUROC,pixel_F1Score
+bottle,1.45,/content/results/Patchcore/MVTecAD/bottle/v0,1.0,0.9919999837875366,0.9856300950050354,0.7268228530883789
+cable,1.72,/content/results/Patchcore/MVTecAD/cable/v0,0.9859446287155151,0.967391312122345,0.984717607498169,0.64079749584198
+capsule,1.68,/content/results/Patchcore/MVTecAD/capsule/v0,0.992820143699646,0.9767441749572754,0.9900406002998352,0.5150878429412842
