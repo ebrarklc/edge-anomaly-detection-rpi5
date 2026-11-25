@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# Proje verileri (büyük dosyalar / lisans gereği GitHub'a yüklenmez)
+datasets/
+models/
+outputs/
